@@ -118,6 +118,16 @@ var myProjects = [
       "A website for a book shop, where the user can register and log in, and the user can add and delete books to the cart, and the user can see the total price of the books in the cart.",
     createdBy: "27/03/2023",
   },
+  {
+    Image:
+      "https://images.unsplash.com/photo-1611125832047-1d7ad1e8e48f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    title: "Basic Calculator",
+    technologies: ["Html, CSS, JavaScript"],
+    link: "https://hosamkh1998.github.io/calculator/",
+    description:
+      "Application for calculating basic mathematical operations, such as addition, subtraction, multiplication and division, and the application also has a memory function, which allows you to save the result of the calculation and use it in the next calculation.",
+    createdBy: "02/04/2023",
+  },
 ];
 
 function renderPersonalDetails() {
